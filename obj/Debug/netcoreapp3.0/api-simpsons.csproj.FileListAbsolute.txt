@@ -1,0 +1,16 @@
+C:\Users\animo\desktop\api-simpsons\bin\Debug\netcoreapp3.0\appsettings.Development.json
+C:\Users\animo\desktop\api-simpsons\bin\Debug\netcoreapp3.0\appsettings.json
+C:\Users\animo\desktop\api-simpsons\bin\Debug\netcoreapp3.0\Properties\launchSettings.json
+C:\Users\animo\desktop\api-simpsons\bin\Debug\netcoreapp3.0\api-simpsons.exe
+C:\Users\animo\desktop\api-simpsons\bin\Debug\netcoreapp3.0\api-simpsons.deps.json
+C:\Users\animo\desktop\api-simpsons\bin\Debug\netcoreapp3.0\api-simpsons.runtimeconfig.json
+C:\Users\animo\desktop\api-simpsons\bin\Debug\netcoreapp3.0\api-simpsons.runtimeconfig.dev.json
+C:\Users\animo\desktop\api-simpsons\bin\Debug\netcoreapp3.0\api-simpsons.dll
+C:\Users\animo\desktop\api-simpsons\bin\Debug\netcoreapp3.0\api-simpsons.pdb
+C:\Users\animo\desktop\api-simpsons\obj\Debug\netcoreapp3.0\api-simpsons.csprojAssemblyReference.cache
+C:\Users\animo\desktop\api-simpsons\obj\Debug\netcoreapp3.0\api-simpsons.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\animo\desktop\api-simpsons\obj\Debug\netcoreapp3.0\api-simpsons.AssemblyInfoInputs.cache
+C:\Users\animo\desktop\api-simpsons\obj\Debug\netcoreapp3.0\api-simpsons.AssemblyInfo.cs
+C:\Users\animo\desktop\api-simpsons\obj\Debug\netcoreapp3.0\api-simpsons.RazorTargetAssemblyInfo.cache
+C:\Users\animo\desktop\api-simpsons\obj\Debug\netcoreapp3.0\api-simpsons.dll
+C:\Users\animo\desktop\api-simpsons\obj\Debug\netcoreapp3.0\api-simpsons.pdb

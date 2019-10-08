@@ -1,6 +1,6 @@
 using System;
 
-namespace demo
+namespace api_simpsons
 {
     public class WeatherForecast
     {

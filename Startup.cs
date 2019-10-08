@@ -11,7 +11,7 @@ using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 using Microsoft.Extensions.Logging;
 
-namespace demo
+namespace api_simpsons
 {
     public class Startup
     {
@@ -25,8 +25,13 @@ namespace demo
         // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
         {
+            services.AddCors(c =>  
+            {  
+                c.AddPolicy("AllowOrigin", options => options.AllowAnyOrigin());  
+            });
             services.AddControllers();
         }
+
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
         public void Configure(IApplicationBuilder app, IWebHostEnvironment env)
@@ -35,6 +40,8 @@ namespace demo
             {
                 app.UseDeveloperExceptionPage();
             }
+
+            app.UseCors(options => options.AllowAnyOrigin());
 
             app.UseHttpsRedirection();
 
