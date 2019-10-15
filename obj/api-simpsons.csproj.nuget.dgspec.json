@@ -1,28 +1,30 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\animo\\desktop\\api-simpsons\\api-simpsons.csproj": {}
+    "C:\\Users\\Romina\\simpsons-api\\api-simpsons.csproj": {}
   },
   "projects": {
-    "C:\\Users\\animo\\desktop\\api-simpsons\\api-simpsons.csproj": {
+    "C:\\Users\\Romina\\simpsons-api\\api-simpsons.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\animo\\desktop\\api-simpsons\\api-simpsons.csproj",
+        "projectUniqueName": "C:\\Users\\Romina\\simpsons-api\\api-simpsons.csproj",
         "projectName": "api-simpsons",
-        "projectPath": "C:\\Users\\animo\\desktop\\api-simpsons\\api-simpsons.csproj",
-        "packagesPath": "C:\\Users\\animo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\animo\\desktop\\api-simpsons\\obj\\",
+        "projectPath": "C:\\Users\\Romina\\simpsons-api\\api-simpsons.csproj",
+        "packagesPath": "C:\\Users\\Romina\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Romina\\simpsons-api\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\animo\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\Romina\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -38,13 +40,6 @@
       },
       "frameworks": {
         "netcoreapp3.0": {
-          "dependencies": {
-            "Microsoft.AspNetCore.Razor.Design": {
-              "suppressParent": "All",
-              "target": "Package",
-              "version": "[2.2.0, )"
-            }
-          },
           "imports": [
             "net461",
             "net462",
