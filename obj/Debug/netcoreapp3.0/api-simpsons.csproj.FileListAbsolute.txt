@@ -32,3 +32,10 @@ C:\Users\Romina\simpsons-api\obj\Debug\netcoreapp3.0\api-simpsons.dll
 C:\Users\Romina\simpsons-api\obj\Debug\netcoreapp3.0\api-simpsons.pdb
 C:\Users\Romina\simpsons-api\obj\Debug\netcoreapp3.0\staticwebassets\api-simpsons.StaticWebAssets.Manifest.cache
 C:\Users\Romina\simpsons-api\obj\Debug\netcoreapp3.0\staticwebassets\api-simpsons.StaticWebAssets.xml
+C:\Users\Romina\simpsons-api\bin\Debug\netcoreapp3.0\System.Data.SqlClient.dll
+C:\Users\Romina\simpsons-api\bin\Debug\netcoreapp3.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Romina\simpsons-api\bin\Debug\netcoreapp3.0\runtimes\win-x64\native\sni.dll
+C:\Users\Romina\simpsons-api\bin\Debug\netcoreapp3.0\runtimes\win-x86\native\sni.dll
+C:\Users\Romina\simpsons-api\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Romina\simpsons-api\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Romina\simpsons-api\obj\Debug\netcoreapp3.0\api-simpsons.csproj.CopyComplete
